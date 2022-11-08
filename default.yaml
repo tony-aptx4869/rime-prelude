@@ -7,14 +7,23 @@ schema_list:
   - schema: luna_pinyin
   - schema: luna_pinyin_simp
   - schema: luna_pinyin_fluency
+  - schema: combo_pinyin_hy9
+  - schema: combo_pinyin
+  - schema: double_pinyin_mspy
   - schema: bopomofo
   - schema: bopomofo_tw
+  - schema: bopomofo_express
   - schema: cangjie5
-  - schema: stroke
   - schema: terra_pinyin
+  - schema: ipa_xsampa
+  - schema: ipa_yunlong
+  - schema: jyutping
+  - schema: hkcantonese
+  - schema: scj6
+  - schema: stroke
 
 switcher:
-  caption: 〔方案選單〕
+  caption: 【輸入法方案選單】
   hotkeys:
     - Control+grave
     - Control+Shift+grave
